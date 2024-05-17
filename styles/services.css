@@ -1,0 +1,19 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px;
+
+}
+
+article {
+    background-color: var(--secondary-color);
+    border-radius: 16px;
+    overflow: hidden;
+    text-align: center;
+    margin: 24px 0px;
+}
+
+.services-image {
+    width: 400px;
+}
